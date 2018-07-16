@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-### Professional Experience
+## Professional Experience
 
-        3. Owner - Athion
+### Owner - Athion
+**[ Owner 2014 – 2018 ]**
 
-        4. [ Owner 2014 – 2018 ]
-
-        5. Athion is a game based learning and development company where we would create bespoke gaming experiences to help facilitate a more immersive learning environment for children and educators.
+Athion is a game based learning and development company where we would create bespoke gaming experiences to help facilitate a more immersive learning environment for children and educators.
 
 * Customer satisfaction
 
     * Conflict Resolution
 
     * Developing processes that reduce or eliminate misunderstandings
-
 * Prevention of online fraud and exploitation
 
     * Stopping one of the biggest concerns in the digital art world is fraud and scammers.
@@ -41,11 +39,10 @@ redirect_from:
 
     * Communicating to developers what the clients need and to client with varying technical knowledge what’s possible and cost effective.
 
-1. Founder - Web.Fund
+#### Founder - Web.Fund
+**[ Owner 2017 – Ongoing ]**
 
-2. [ Owner 2017 – Ongoing ]
-
-3. Web Fund is a cryptocurrency trading and AI analytics and trading platform.
+Web Fund is a cryptocurrency trading and AI analytics and trading platform.
 
 * Writing and deploying Docker container microservices clusters to both secure and deploy the development environment with repeatability.
 
@@ -55,11 +52,11 @@ redirect_from:
 
 * Recruited a distributed team of various required skilled people
 
-        6. CoFounder - ServerCubes.com
+#### CoFounder - ServerCubes.com
 
-        7. [ Owner 2014 – 2016 ]
+**[ Owner 2014 – 2016 ]**
 
-        8. Server Cubes was a short-lived project which was an automated game server rental project.
+Server Cubes was a short-lived project which was an automated game server rental project.
 
 * Writing Salt-Stack configuration templates for scaling and configuration management
 
@@ -69,21 +66,21 @@ redirect_from:
 
 * Marketing and strategic planning
 
-4. Member/Speaker - KWLUG
+#### Member/Speaker - KWLUG
 
-5. [ 2007 – Ongoing ]
+**[ 2007 – Ongoing ]**
 
-6. KW Linux Users Group is a group dedicated to discussing sharing and teaching all things in the KW region and abroad that are Free Libre Open Source Software.
+KW Linux Users Group is a group dedicated to discussing sharing and teaching all things in the KW region and abroad that are Free/Libre Open Source Software.
 
 * Regular speaker at the KWLUG covering topics such as, GitLab, Archival Media, Mail Server hosting and setup.
 
 * Help manage and run the group with Agile/Kanban boards via GitLab’s issue system.
 
-    5. Founder - Nixium Networks
+#### Founder - Nixium Networks
 
-    6. [ 2012 – 2014 ]
+**[ 2012 – 2014 ]**
 
-    7. This was a Minecraft based game production project which worked on it’s own projects and for major social media influencers on YouTube and Twitch.TV
+This was a Minecraft based game production project which worked on it’s own projects and for major social media influencers on YouTube and Twitch.TV
 
 * Recruitment for software developers, media designers other misc talent.
 
@@ -93,11 +90,11 @@ redirect_from:
 
 * Accounting & Billing
 
-    8. CoFounder - Academy3 IVS
+#### CoFounder - Academy3 IVS
 
-    9. [ 2018 – Ongoing ]
+**[ 2018 – Ongoing ]**
 
-    10. Game based learning and development education company focusing primarily on summer camps and other learning programs leveraging video games such as Minecraft as an educational tool.
+Game based learning and development education company focusing primarily on summer camps and other learning programs leveraging video games such as Minecraft as an educational tool.
 
 * Recruitment for software developers, media designers other misc talent.
 
@@ -107,7 +104,7 @@ redirect_from:
 
 * Agile / Kanban project management
 
-### Education
+## Education
 
 <table>
   <tr>
@@ -129,7 +126,7 @@ Intro to Machine Learning & Autonomous Vehicles.
 </table>
 
 
-### Publications & Other Media
+## Published content & Other Media
 
 Understanding the Anzac Spirit - Lynne Telfer - Athion.net [https://goo.gl/yWQ1h6](https://goo.gl/yWQ1h6)
 
@@ -180,53 +177,3 @@ YouTube media - Athion.net - [https://goo.gl/4fV35S](https://goo.gl/4fV35S)
     <td>ELK stack, LAMP, LEMP</td>
   </tr>
 </table>
-
-
-<!-- Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->

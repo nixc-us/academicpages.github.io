@@ -39,7 +39,7 @@ Athion is a game based learning and development company where we would create be
 
     * Communicating to developers what the clients need and to client with varying technical knowledge what’s possible and cost effective.
 
-#### Founder - Web.Fund
+### Founder - Web.Fund
 **[ Owner 2017 – Ongoing ]**
 
 Web Fund is a cryptocurrency trading and AI analytics and trading platform.
@@ -52,7 +52,7 @@ Web Fund is a cryptocurrency trading and AI analytics and trading platform.
 
 * Recruited a distributed team of various required skilled people
 
-#### CoFounder - ServerCubes.com
+### CoFounder - ServerCubes.com
 
 **[ Owner 2014 – 2016 ]**
 
@@ -66,7 +66,7 @@ Server Cubes was a short-lived project which was an automated game server rental
 
 * Marketing and strategic planning
 
-#### Member/Speaker - KWLUG
+### Member/Speaker - KWLUG
 
 **[ 2007 – Ongoing ]**
 
@@ -76,7 +76,7 @@ KW Linux Users Group is a group dedicated to discussing sharing and teaching all
 
 * Help manage and run the group with Agile/Kanban boards via GitLab’s issue system.
 
-#### Founder - Nixium Networks
+### Founder - Nixium Networks
 
 **[ 2012 – 2014 ]**
 
@@ -90,7 +90,7 @@ This was a Minecraft based game production project which worked on it’s own pr
 
 * Accounting & Billing
 
-#### CoFounder - Academy3 IVS
+### CoFounder - Academy3 IVS
 
 **[ 2018 – Ongoing ]**
 
@@ -136,7 +136,7 @@ YouTube media - Athion.net - [https://goo.gl/4fV35S](https://goo.gl/4fV35S)
 
 ( YouTube - 2015 )
 
-### Technology Knowledge
+## Technology Knowledge
 
 Including a list of technologies that I’ve worked with over the years through my various projects.  I’ve only included technologies we’ve either used fully in deployed production or at least experimented with for a short period in production.
 

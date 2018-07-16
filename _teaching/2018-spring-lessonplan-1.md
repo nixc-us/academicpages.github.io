@@ -13,12 +13,13 @@ Links
 
 [Freely Downloadable Lesson Plan](http://archive.is/qTr3c#selection-2695.70-2695.188)
 
-[Anzac Connections - People profiles and biographies.  Anzac Connections - Biographies including private records and diaries](http://archive.fo/M0LWP)
+[Anzac Connections - People profiles and biographies.  Anzac Connections - Biographies including private records and diaries](https://web.archive.org/web/20170418015543/https://www.awm.gov.au/people/profiles/)`[ArchivedURL]`
 
-[Selected Diaries of Australian and New Zealand Solidiers for the Lesson.  Your class can use these diary entries to begin your research](http://archive.fo/o1yGS)
+[Selected Diaries of Australian and New Zealand Solidiers for the Lesson.  Your class can use these diary entries to begin your research](http://archive.fo/o1yGS)`[ArchivedURL]`
 
-[Anzac Java Edition Map](/files/anzac-je.zip)
-[Anzac Education Edition Map](/files/anzac-education.mcworld)
+[Anzac Java Edition Map](/files/anzac-je.zip) `This works only with the Original Minecraft Java Edition.  This map can technically be converted to be used on Pocket Edition if you find the right tools.`
+
+[Anzac Education Edition Map](/files/anzac-education.mcworld) `Download and double-click to install the Anzac World on your MC: Education Edition version.`
 
 Learning Objectives
 ======
@@ -59,7 +60,7 @@ Your teacher will have the world set up for your class as a shared world. As you
   * What were they feeling during the time of the event or moment they are talking about.
   * What personal qualities have the soldiers displayed?
   Extra Awesomeness
-  * Pretend you are a war correspondent.  Make news articles about the people you interview there. Tahe photos and use your article to encourage the people back home that the soldiers are inspirational.
+  * Pretend you are a war correspondent.  Make news articles about the people you interview there. Take photos and use your article to encourage the people back home that the soldiers are inspirational.
   * Become a soldier yourself. Write your own diary entries detailing how you got there, where you went, what you did, how you felt and who you met. Take screenshots and make them black and white!
 
 Performance Expectations

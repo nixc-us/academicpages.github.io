@@ -138,7 +138,7 @@ YouTube media - Athion.net - [https://goo.gl/4fV35S](https://goo.gl/4fV35S)
 
 ### Technology Knowledge
 
-1. Including a list of technologies that I’ve worked with over the years through my various projects.  I’ve only included technologies we’ve either used fully in deployed production or at least experimented with for a short period in production.
+Including a list of technologies that I’ve worked with over the years through my various projects.  I’ve only included technologies we’ve either used fully in deployed production or at least experimented with for a short period in production.
 
 <table>
   <tr>

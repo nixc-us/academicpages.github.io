@@ -16,9 +16,9 @@ Links
 
 [Freely Downloadable Lesson Plan](http://archive.is/qTr3c#selection-2695.70-2695.188)
 
-[Anzac Connections - People profiles and biographies.  Anzac Connections - Biographies including private records and diaries](https://web.archive.org/web/20170418015543/https://www.awm.gov.au/people/profiles/)*[ArchivedURL]*
+[Anzac Connections - People profiles and biographies.  Anzac Connections - Biographies including private records and diaries](https://web.archive.org/web/20170418015543/https://www.awm.gov.au/people/profiles/) *[ArchivedURL]*
 
-[Selected Diaries of Australian and New Zealand Solidiers for the Lesson.  Your class can use these diary entries to begin your research](http://archive.fo/o1yGS)*[ArchivedURL]*
+[Selected Diaries of Australian and New Zealand Solidiers for the Lesson.  Your class can use these diary entries to begin your research](http://archive.fo/o1yGS) *[ArchivedURL]*
 
 [Anzac Java Edition Map](/files/anzac-je.zip) *This works only with the Original Minecraft Java Edition.  This map can technically be converted to be used on Pocket Edition if you find the right tools.*
 

@@ -20,9 +20,9 @@ Links
 
 [Selected Diaries of Australian and New Zealand Solidiers for the Lesson.  Your class can use these diary entries to begin your research](http://archive.fo/o1yGS)`[ArchivedURL]`
 
-[Anzac Java Edition Map](/files/anzac-je.zip) `This works only with the Original Minecraft Java Edition.  This map can technically be converted to be used on Pocket Edition if you find the right tools.`
+[Anzac Java Edition Map](/files/anzac-je.zip) *This works only with the Original Minecraft Java Edition.  This map can technically be converted to be used on Pocket Edition if you find the right tools.*
 
-[Anzac Education Edition Map](/files/anzac-education.mcworld) `Download and double-click to install the Anzac World on your MC: Education Edition version.`
+[Anzac Education Edition Map](/files/anzac-education.mcworld) *Download and double-click to install the Anzac World on your MC: Education Edition version.*
 
 Learning Objectives
 ======

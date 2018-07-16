@@ -8,6 +8,9 @@ date: 2018-05-10
 location: "https://education.minecraft.net"
 ---
 
+This lesson plan was developed between Athion and Lynne Telfer for the Minecraft Education and Minecraft Java Edition
+
+
 Links
 ======
 

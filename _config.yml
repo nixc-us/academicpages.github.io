@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colin_ / The site everyone needs you to have."
+title                    : "Colin_"
 title_separator          : "-"
 name                     : &name "Colin_"
-description              : &description "Just a portfolio page with a few details about me and things I do and have done."
+description              : &description "Home"
 url                      : https://colin.nixc.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nixc-us/colin.nixc.us"

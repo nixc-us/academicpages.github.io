@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Just a portfolio site people can flip through to see things I've done."
+title: "Colin_"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is going to need content at some point.
+Currently the only section of this portfolio site that is ready/available is the talks section.

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colin_"
+title                    : "Colin"
 title_separator          : "-"
-name                     : &name "Colin_"
+name                     : &name "Colin"
 description              : &description "Home"
 url                      : https://colin.nixc.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages", "master"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Colin_"
+  name             : "Colin"
   avatar           : "profile.png"
   bio              : "Entrepreneur, Project Management, Containers, DevOps, CI/CD, Cryptocurrency"
   location         :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "blank"
   vine             :
   weibo            :
   xing             :
@@ -212,15 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
